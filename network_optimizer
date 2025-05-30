@@ -13,9 +13,6 @@ The model optimizes facility location decisions across:
 - Processing Centers (PCs)
 - Collection Centers (CCs)
 
-Author: [Your Name]
-Date: [Current Date]
-License: [Your License]
 """
 
 import gurobipy
